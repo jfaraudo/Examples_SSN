@@ -1,2 +1,2 @@
 # Examples_SSN
-Example files for SSN course
+Example files for the SSN course at UAB
