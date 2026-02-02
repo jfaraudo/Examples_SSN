@@ -4,4 +4,4 @@ The videos include:
 - Melting of ice (as an example of thermodynamic transformation)
 - Protein adsorption over a nanoparticle (bio-nano)
 - Quantum tunneling by solving numerically the time-dependend Schrödinger equation (as an example of quantum phenomena)
-  
+The structures folder provides coordinate examples (in different formats) of nanostructures such as a carbon nanotube.
